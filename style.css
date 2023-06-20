@@ -1,0 +1,44 @@
+.main{
+    width: 20vw;
+    border: 3px solid black;
+    justify-content: center;
+    margin-left: 40vw;
+    padding-top: 1px;
+    
+}
+#heading{
+    font-weight: 900; 
+    /* font-size: xx-large; */
+    text-align: center;
+    padding: 1px;
+
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 800;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 400;
+}
+
+.extra{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.hori hr{
+    border: none;
+    border-top:10px solid black ;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.hori1 hr{
+    border: none;
+    border-top:5px solid black ;
+    margin-left: 10px;
+    margin-right: 10px;
+}
